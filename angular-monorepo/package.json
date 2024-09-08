@@ -36,7 +36,7 @@
     "@nx/playwright": "19.6.5",
     "@nx/web": "19.6.5",
     "@nx/workspace": "19.6.5",
-    "@playwright/test": "^1.36.0",
+    "@playwright/test": "1.47.0",
     "@schematics/angular": "~18.2.0",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",

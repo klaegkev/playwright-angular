@@ -1,9 +1,9 @@
 import { test, expect } from '@playwright/test';
-import {testConst } from '@angular-monorepo/test-lib';
+import { testConst } from '@angular-monorepo/test-lib';
+// this does work: import { testConst } from '../../../test-lib/src/lib/test-lib/test.const';
 
 test('has title', async ({ page }) => {
-  console.log(testConst)
-
+  console.log(testConst);
 
   await page.goto('/');
 
