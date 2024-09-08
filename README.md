@@ -1,4 +1,4 @@
-you can find a preconfigured monorepo with the above steps under ./angular-monorepo:
+you can find a preconfigured monorepo with the steps below under ./angular-monorepo:
 
 Steps to reproduce:
 
